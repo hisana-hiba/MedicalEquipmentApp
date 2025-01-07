@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609502979593",
+    "project_id": "medical-equipment-app-be87f",
+    "storage_bucket": "medical-equipment-app-be87f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609502979593:android:c1243c6a8503f3fd10fad8",
+        "android_client_info": {
+          "package_name": "com.example.untitled42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609502979593-8vtr6v3hgd6lr0cjqm6o2svfe8v1i7be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled42",
+            "certificate_hash": "9d529d109c77c3e5a790516b27a1232957778f79"
+          }
+        },
+        {
+          "client_id": "609502979593-b9t7pc2s54i5407lr76hgvjku69ue1bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxL79MXqENIko6AuEAsgj4VRgb66KF3Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609502979593-b9t7pc2s54i5407lr76hgvjku69ue1bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
